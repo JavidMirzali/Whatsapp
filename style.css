@@ -7,11 +7,11 @@ body {
   padding-top: 80px;
 }
 #demo .chat {
-  border: solid 1px #e8edff;
-  background: #e8edff;
+  border: solid 1px #a4caff;
+  background: #a4caff;
   border-radius: 20px;
   width: 500px;
-  height: 340px;
+  height: 400px;
 }
 #demo .chat h3 {
   display: inline-block;
@@ -29,7 +29,7 @@ body {
   background: white;
   overflow: auto;
   width: 450px;
-  height: 240px;
+  height: 290px;
   margin: 22px 0 0 25px;
   border-radius: 20px;
 }
